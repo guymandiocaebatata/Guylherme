@@ -1,2 +1,1 @@
-# Guylherme
-APRENDENDO A PROGRAMAR
+# Guylherme..
